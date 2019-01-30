@@ -15,7 +15,7 @@ end
 def breed
   @breed
 end 
-
+end 
 
 fido = Dog.new("fido")
 fido.name 
