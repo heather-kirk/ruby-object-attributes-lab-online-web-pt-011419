@@ -15,4 +15,3 @@ end
 fido = Dog.new("fido")
 fido.name 
 end   
-end 
