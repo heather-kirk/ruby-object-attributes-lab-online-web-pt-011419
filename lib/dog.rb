@@ -13,4 +13,4 @@ def name= (dog_name)
 end 
 end 
 
-fido.new 
+fido = dog
